@@ -1,0 +1,4 @@
+Name: Thiet 
+Role: Team Lead 
+"Task: Manage project & review PR" 
+"Task: Manage project & review PR" 
