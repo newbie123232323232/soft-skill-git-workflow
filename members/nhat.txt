@@ -1,4 +1,0 @@
-Name: Nhat 
-Role: Developer 
-Task: Implement core feature A 
-Status: Completed initial implementation 
