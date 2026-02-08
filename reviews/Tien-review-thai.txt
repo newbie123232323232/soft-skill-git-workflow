@@ -1,0 +1,18 @@
+Reviewer: Tien
+Email: tienfake@gmail.com
+Role: Reviewer
+
+Reviewed branches:
+- feature/thai
+
+Reviewed files:
+- members/thai.txt
+
+Review summary:
+- Naming and file structure follow team convention
+- Each member works on own feature branch
+- No direct commit to main branch
+- No conflict with develop branch after merge
+
+Decision:
+- feature/thai: Approved
