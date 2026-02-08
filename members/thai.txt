@@ -1,2 +1,4 @@
 Name: Thai 
 Role: Developer 
+Task: Implement feature B 
+Status: In progress 
