@@ -1,4 +1,5 @@
-Name: Thai 
-Role: Developer 
-Task: Implement feature B 
-Status: In progress 
+Name: Thai
+Role: Backend Developer
+Task: Implement feature B
+Status: In progress
+Reviewer note: Waiting for final review
